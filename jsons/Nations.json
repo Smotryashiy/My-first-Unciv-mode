@@ -7,12 +7,12 @@
 		"preferredVictoryType": "Scientific",
 		
 		"startIntroPart1": "Орден приветствует вас!",
-		"startIntroPart2": "This is an overpowered joke nation just as an example for the mods feature. Set Phasers to Obliterate!!",
+		"startIntroPart2": "Да здравствует Смотрящий!",
 		
 		"declaringWar": "Resistance is futile! Prepare to be assimilated!",
 		"attacked": "Вы нападаете на нас. Это забавно",
 		"defeated": "Весь мой Орден был уничтожен. Вы победили. ",
-		"introduction": "As superior galactic entities, you are not worthy of our attention.",
+		"introduction": "Орден Смотрящего приветствует вас",
 		
 		"neutralHello": "Что вы делаете?",
 		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
@@ -30,7 +30,7 @@
 		"outerColor": [16,16,16],
 		"innerColor": [255,200,200],
 		"unique": "MANIFEST_DESTINY",
-		"cities": ["The Hive","Q'Throczan","Q'Chovex","Q'Imphet","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
+		"cities": ["Роттеруф","Кхрозан","Фроузен","Q'Imphet","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
 			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
 			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
 			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
